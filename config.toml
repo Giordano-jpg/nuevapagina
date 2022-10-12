@@ -1,0 +1,3 @@
+baseURL = 'https://stellular-panda-ab2262.netlify.app/'
+languageCode = 'es'
+title = 'My New Hugo Site'
